@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Sorry",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2025-12-14T06:07:18.503042Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Sara Evans",
+      "has_synced": true,
+      "path": "select/01_Hard_To_Say_I'm_Sorry_Sara_Evans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Sorry",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/02_I'm_Sorry_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Sorry",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/03_I'm_Sorry_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sorry",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/04_Sorry_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sorry You Asked?",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/05_Sorry_You_Asked_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sorry",
+      "artist": "Alan Walker feat. ISÁK",
+      "has_synced": true,
+      "path": "select/06_Sorry_Alan_Walker_feat._ISÁK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sorry",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/07_Sorry_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Does Sorry Mean",
+      "artist": "Madison Kozak",
+      "has_synced": true,
+      "path": "select/08_What_Does_Sorry_Mean_Madison_Kozak.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Sorry That the Kitchen Is on Fire",
+      "artist": "Tamas Wells",
+      "has_synced": true,
+      "path": "select/09_I'm_Sorry_That_the_Kitchen_Is_on_Fire_Tamas_Wells.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sorry",
+      "artist": "方大同",
+      "has_synced": true,
+      "path": "select/10_Sorry_方大同.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You're Not Sorry",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_You're_Not_Sorry_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sorry (Dear. Daddy)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/12_Sorry_(Dear._Daddy)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sorry Momma",
+      "artist": "YG feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/13_Sorry_Momma_YG_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sorry Momma (Feat. Ty Dolla Sign)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/14_Sorry_Momma_(Feat._Ty_Dolla_Sign)_YG.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Sorry",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/15_I'm_Sorry_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Sorry_Justin_Bieber.txt"
+    }
+  ]
+}
